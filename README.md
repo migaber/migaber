@@ -1,11 +1,11 @@
 <h1 align="center"> Hi It's Mohamed Gaber :blush: </h1>
 
-Hi there, it's mohamed gaber github profile, welcome and i hope you enjoy checking my profile, I'm a frontend engineer at Instabug, a company which focused on improving mobile app industry quality
+Hello, my name is Mohamed Gaber, and I'd like to welcome you to my github profile. I hope you enjoy it. I work at Instabug as a frontend engineer, a startup dedicated to enhancing the quality of mobile apps.
 
-- I'm currently focused on improving my ability to provide high quality web applications using Vue.js 
-- I'm instreased in mobile app developments using Flutter and looking forward to use flutter in web application soon.
-- I have a Backend background, and I'm building many side projects alone using ExpressJS and GraphQL
-- You can ask me about Javascript, angularJS and VueJS
+- Currently, I'm focusing on strengthening my skills to create high-quality web applications with Vue.js.
+- I'm interested in developing mobile apps with Flutter and hope to apply it in a web application shortly.
+- I have a background in backend development and am currently working on a number of side projects utilising ExpressJS and GraphQL 
+- you can also ask me about Javascript, AngularJS, and VueJS.
 
 # Frameworks and Tools I frequently use
 <p align="left">
